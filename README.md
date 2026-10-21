@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0059-spiral-matrix-ii) |
 | [0724-find-pivot-index](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0904-fruit-into-baskets) |
+| [1390-four-divisors](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/1390-four-divisors) |
 | [1480-running-sum-of-1d-array](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0009-palindrome-number) |
+| [1390-four-divisors](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/1390-four-divisors) |
 ## Matrix
 |  |
 | ------- |
@@ -53,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0904-fruit-into-baskets) |
+## Prime Factorization
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/1390-four-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/1390-four-divisors) |
 <!---LeetCode Topics End-->
