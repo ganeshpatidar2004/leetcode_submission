@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0059-spiral-matrix-ii) |
 | [0724-find-pivot-index](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0904-fruit-into-baskets) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1390-four-divisors](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/1390-four-divisors) |
 | [1480-running-sum-of-1d-array](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0042-trapping-rain-water) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Stack
 |  |
 | ------- |
