@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0009-palindrome-number) |
 | [1390-four-divisors](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/1390-four-divisors) |
+| [1492-the-kth-factor-of-n](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/1492-the-kth-factor-of-n) |
 ## Matrix
 |  |
 | ------- |
@@ -59,8 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1390-four-divisors](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/1390-four-divisors) |
+| [1492-the-kth-factor-of-n](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/1492-the-kth-factor-of-n) |
 ## Sieve Theory
 |  |
 | ------- |
 | [1390-four-divisors](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/1390-four-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
