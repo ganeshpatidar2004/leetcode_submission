@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0059-spiral-matrix-ii) |
 | [0724-find-pivot-index](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0724-find-pivot-index) |
+| [0904-fruit-into-baskets](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0904-fruit-into-baskets) |
 | [1480-running-sum-of-1d-array](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0042-trapping-rain-water) |
+## Hash Table
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0904-fruit-into-baskets) |
+## Sliding Window
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
