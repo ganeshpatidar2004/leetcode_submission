@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0059-spiral-matrix-ii) |
+| [0410-split-array-largest-sum](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0904-fruit-into-baskets) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/1480-running-sum-of-1d-array) |
 ## Math
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0042-trapping-rain-water) |
+| [0410-split-array-largest-sum](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0410-split-array-largest-sum) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Stack
 |  |
@@ -71,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/1492-the-kth-factor-of-n) |
+## Binary Search
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0410-split-array-largest-sum) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
