@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0059-spiral-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0435-non-overlapping-intervals) |
 | [0724-find-pivot-index](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0904-fruit-into-baskets) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0435-non-overlapping-intervals) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Stack
 |  |
@@ -83,4 +85,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0435-non-overlapping-intervals) |
+## Sorting
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
