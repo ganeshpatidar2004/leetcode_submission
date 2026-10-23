@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1390-four-divisors](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/1390-four-divisors) |
 | [1480-running-sum-of-1d-array](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/1480-running-sum-of-1d-array) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -86,8 +87,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0435-non-overlapping-intervals) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Sorting
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0435-non-overlapping-intervals) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/1962-remove-stones-to-minimize-the-total) |
 <!---LeetCode Topics End-->
