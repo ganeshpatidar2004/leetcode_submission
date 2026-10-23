@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0054-spiral-matrix) |
+| [0057-insert-interval](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0059-spiral-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0724-find-pivot-index) |
