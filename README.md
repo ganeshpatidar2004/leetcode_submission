@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0057-insert-interval) |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/1962-remove-stones-to-minimize-the-total) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/ganeshpatidar2004/leetcode_submission/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
